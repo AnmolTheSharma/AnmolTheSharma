@@ -1,7 +1,7 @@
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=%F0%9F%91%8Bhi%20i%20am%20anmol%20sharma&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-<h1 align="center">Hi 👋, I'm ANMOL SHARMA</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
