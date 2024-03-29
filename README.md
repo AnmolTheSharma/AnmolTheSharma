@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=%F0%9F%91%8Bhi%20i%20am%20anmol%20sharma&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=%F0%9F%91%8BHi%20I%20am%20Anmol%20Sharma&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 <h3 align="center">A passionate software engineer from India</h3>
